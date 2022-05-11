@@ -1,0 +1,60 @@
+.placeitem {
+    margin: 1rem 0;
+  }
+  
+  .placeitemcontent {
+    padding: 0;
+  }
+  
+  .placeiteminfo {
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .placeitemimage {
+    width: 100%;
+    height: 12.5rem;
+    margin-right: 1.5rem;
+  }
+  
+  .placeitemimage img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .placeiteminfo h2,
+  .placeiteminfo h3,
+  .placeiteminfo p {
+    margin: 0 0 0.5rem 0;
+  }
+  
+  .placeitemactions {
+    padding: 1rem;
+    text-align: center;
+    border-top: 1px solid #ccc;
+  }
+  
+  .placeitemmodalcontent {
+    padding: 0;
+  }
+  
+  .placeitemmodalactions {
+    text-align: right;
+  }
+  
+  .placeitemactions button,
+  .placeitemactions a {
+    margin: 0.5rem;
+  }
+  
+  .mapcontainer {
+    height: 15rem;
+    width: 100%;
+  }
+  
+  @media (min-width: 768px) {
+    .placeitemimage {
+      height: 20rem;
+    } 
+  }
