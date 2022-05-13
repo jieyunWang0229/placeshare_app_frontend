@@ -1,6 +1,6 @@
 # Placeshare_app
 
-Users can share their faviourate places with others in the app, where each place has image, location and titile.
+Users can share their favourite places with others in the app, where each place has image, location and title.
 Use Google Map API to show the location of places.
 
 # Frontend
